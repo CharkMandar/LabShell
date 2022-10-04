@@ -1,0 +1,5 @@
+C:/Users/s21380112/denis/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/s21380112/denis/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/s21380112/denis/build/src/CMakeFiles/data_structures.dir
+C:/Users/s21380112/denis/build/gtest/CMakeFiles/gtest.dir
+C:/Users/s21380112/denis/build/test/CMakeFiles/test_data_structures.dir
